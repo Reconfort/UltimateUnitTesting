@@ -1,5 +1,4 @@
-
-import { it, expect, describe } from 'vitest'
+import { it, expect, describe } from 'vitest';
 import { calculateDiscount } from '../main';
 
 describe('calculateDiscount', () => {
